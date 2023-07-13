@@ -1,4 +1,4 @@
-# Coursera-Data-Manipulation
+A repo with the completed assignments from a Coursera course.
 
 Learning Goals: 
 1. Describe common patterns, challenges, and approaches associated with data science projects, and what makes them different from projects in related fields.
